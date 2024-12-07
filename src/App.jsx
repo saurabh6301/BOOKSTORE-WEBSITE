@@ -3,7 +3,6 @@ import './App.css'
 import Cotegorie from './components/Cotegorie/Cotegorie'
 import Contact from './components/Contact/Contact'
 import Homepage from './components/Homepage/Homepage'
-import Navigation from './components/navigation/Navigation'
 import Blog from './components/Blog/Blog'
 import Footer from './components/Footer/Footer'
 import About from './components/About/About'
@@ -15,6 +14,7 @@ import UsersAndOrdersList from './components/Order/UsersAndOrdersList'
 import ResponsiveNavbar from './components/navigation/ResponsiveNavbar'
 import LoginPage from './components/User/LoginPage'
 import AddBook from './components/Cotegorie/SubBooks/AddBook'
+import Navigation from './components/navigation/Navigation'
 
 
 

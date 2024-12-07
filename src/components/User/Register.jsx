@@ -15,7 +15,7 @@ import {
   IconButton,
 } from "@mui/material";
 import DeleteIcon from "@mui/icons-material/Delete";
-import Navigation from "../navigation/navigation";
+import Navigation from "../navigation/Navigation";
 import { useNavigate } from "react-router-dom";
 
 const Register = () => {
