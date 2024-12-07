@@ -3,7 +3,7 @@ import './App.css'
 import Cotegorie from './components/Cotegorie/Cotegorie'
 import Contact from './components/Contact/Contact'
 import Homepage from './components/Homepage/Homepage'
-import Navigation from './components/navigation/navigation'
+import Navigation from './components/navigation/Navigation'
 import Blog from './components/Blog/Blog'
 import Footer from './components/Footer/Footer'
 import About from './components/About/About'
@@ -48,4 +48,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
